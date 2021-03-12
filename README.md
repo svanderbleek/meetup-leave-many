@@ -9,3 +9,5 @@ Easy UI to leave many meetup groups
 
 - [ ] oauth flow https://www.meetup.com/meetup_api/auth/
 - [ ] leave UI
+
+Actually I might just delete and recreate account because that's easier ha
